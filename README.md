@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,  👋
 
 <!--
 **r90ur7/R90ur7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href ="https://github.com/r90ur7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r90ur7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r90ur7&layout=compact&langs_count=16&theme=dracula"/>
+<div>
