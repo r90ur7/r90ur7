@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 <div>
   <a href ="https://github.com/r90ur7">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=r90ur7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="62%" height="180em" src="https://github-readme-stats.vercel.app/api?username=r90ur7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r90ur7&layout=compact&langs_count=16&theme=dracula"/>
 <div>
