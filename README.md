@@ -1,4 +1,4 @@
-### Hi there,  👋
+### Olaaaa, bem vindo e fica a vontade 👋😁
 
 <!--
 **r90ur7/R90ur7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
