@@ -1,5 +1,6 @@
+nome: Snake game
 # Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
+ workflow_dispatch:
 
 # Regras
 jobs:
