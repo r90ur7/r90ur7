@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
  </div>
 </br>
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/r90ur7/r90ur7/blob/output/github-contribution-grid-snake.svg)
 
  
 
