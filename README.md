@@ -4,8 +4,10 @@
  ### 	Espero que ao explorar meus repositórios, você sinta um pouco da minha paixão pelo mundo da tecnologia e pela criação de soluções personalizadas e eficientes. E se precisar de ajuda ou quiser bater um papo sobre programação, fique à vontade para entrar em contato. Vamos juntos em busca de novas descobertas e inovações!
   - 🔭 I’m currently working on:
        C#
+       <br/>
   -🌱 I’m currently learning:
        C#
+       <br/>
 VISITANTES:
 
  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/r90ur7/count.svg" /></p>
