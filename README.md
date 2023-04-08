@@ -3,7 +3,7 @@
  ### 	Admito que sou uma pessoa que gosta de me expressar por meio de códigos e linhas de comando, mas estou sempre aberto para trocar ideias e aprender com outros programadores. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.
  ### 	Espero que ao explorar meus repositórios, você sinta um pouco da minha paixão pelo mundo da tecnologia e pela criação de soluções personalizadas e eficientes. E se precisar de ajuda ou quiser bater um papo sobre programação, fique à vontade para entrar em contato. Vamos juntos em busca de novas descobertas e inovações!
   - 🔭 I’m currently working on:
-       C#
+       C# and PhP
        <br/>
   -🌱 I’m currently learning:
        C#
