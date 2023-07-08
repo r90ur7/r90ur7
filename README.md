@@ -51,8 +51,43 @@
   - 🔭 I’m currently working on: <a href="[https://skillicons.dev](https://github.com/UgbFerp)"> UGB - Ferp</a>
   - 🌱 I’m currently learning: User experience and Design: <a href="[https://skillicons.dev](https://github.com/UgbFerp)"> UGB - Ferp</a>
    <br/>
-       
-VISITANTES:
+
+   <h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;C H A L L E N G E &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
+
+<br> 
+
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/andredavedovicz/api-auth-jwt" title="api-auth-jwt">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=r90ur7&repo=Dojo&theme=vision-friendly-dark&icon_color=54E2F5&&border_color=54E2F5&bg_color=00000000&border_radius=10&color=54E2F5">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://github.com/andredavedovicz/movies-lib-reactjs" title="movies-lib-reactjs">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=r90ur7&repo=challenge-landing-page&Public&theme=vision-friendly-dark&icon_color=54E2F5&&border_color=54E2F5&bg_color=00000000&border_radius=10&color=54E2F5">
+  </a>
+</div>
+
+<br/>
+
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/andredavedovicz/Form-HTML-CSS" title="Form-HTML-CSS">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=r90ur7&repo=challenge-algorithms&theme=vision-friendly-dark&icon_color=54E2F5&&border_color=54E2F5&bg_color=00000000&border_radius=10&color=54E2F5">
+  </a>
+  &nbsp;&nbsp;&nbsp;  
+  <a align="center" href="https://github.com/andredavedovicz/semaforo-JS" title="semaforo-JS">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=r90ur7&repo=challenge-tourist-attractions&theme=vision-friendly-dark&icon_color=54E2F5&&border_color=54E2F5&bg_color=00000000&border_radius=10&color=54E2F5">
+  </a>
+</div>
+
+<br>
+
+   
+   <h4 align="center">
+          <a href="https://github.com/r90ur7?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+   </h4>
+   <h4 align="center">
+           VISITANTES:
+   </h4>
+      
 
  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/r90ur7/count.svg" /></p>
  
