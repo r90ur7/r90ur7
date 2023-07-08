@@ -8,6 +8,8 @@
  ### 	Admito que sou uma pessoa que gosta de me expressar por meio de códigos e linhas de comando, mas estou sempre aberto para trocar ideias e aprender com outros programadores. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.
  ### 	Espero que ao explorar meus repositórios, você sinta um pouco da minha paixão pelo mundo da tecnologia e pela criação de soluções personalizadas e eficientes. E se precisar de ajuda ou quiser bater um papo sobre programação, fique à vontade para entrar em contato. Vamos juntos em busca de novas descobertas e inovações! -->
  
+ ![Snake animation](https://github.com/r90ur7/r90ur7/blob/output/github-contribution-grid-snake.svg)
+ 
  ### Front Skills :3
 <p align="center">
   <a href="https://skillicons.dev">
@@ -81,8 +83,5 @@ Here are some ideas to get you started:
       <img align="center" alt="r90ur7-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />         
    </div>
  </div>
-
-![Snake animation](https://github.com/r90ur7/r90ur7/blob/output/github-contribution-grid-snake.svg)
  
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
