@@ -1,4 +1,6 @@
-### 	Olá! meu nome Rallenson  e seja bem-vindo(a)s ao meu perfil no Github! Eu sou um estudante de Sistemas de Informação no 4º período, e fico feliz em compartilhar com você um pouco do meu mundo da programação. 👋😁
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+###Olá! meu nome Rallenson  e seja bem-vindo(a)s ao meu perfil no Github! Eu sou um estudante de Sistemas de Informação no 4º período, e fico feliz em compartilhar com você um pouco do meu mundo da programação. 👋😁
 <!--  ### Aqui, eu apresento uma seleção de projetos que desenvolvi com muita dedicação e paixão. A tecnologia é a minha aliada nesta jornada, explorando diferentes linguagens e ferramentas para criar soluções inovadoras e funcionais.
  ### 	Admito que sou uma pessoa que gosta de me expressar por meio de códigos e linhas de comando, mas estou sempre aberto para trocar ideias e aprender com outros programadores. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.
  ### 	Espero que ao explorar meus repositórios, você sinta um pouco da minha paixão pelo mundo da tecnologia e pela criação de soluções personalizadas e eficientes. E se precisar de ajuda ou quiser bater um papo sobre programação, fique à vontade para entrar em contato. Vamos juntos em busca de novas descobertas e inovações! -->
@@ -56,3 +58,4 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/r90ur7/r90ur7/blob/output/github-contribution-grid-snake.svg)
  
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
