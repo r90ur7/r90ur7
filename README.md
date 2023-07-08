@@ -16,7 +16,15 @@
   </a>
 </p>
 
- ### Tools
+ ### Back Skills :D
+<p align="center">
+  <a href="https://skillicons.dev">
+ 
+   [![My Skills](https://skillicons.dev/icons?i=py,cs&theme=dark&perline=4)](https://skillicons.dev)
+  </a>
+</p>
+
+ ### Tools 🤓
 <p align="center">
   <a href="https://skillicons.dev">
  
