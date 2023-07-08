@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-###Olá! meu nome Rallenson  e seja bem-vindo(a)s ao meu perfil no Github! Eu sou um estudante de Sistemas de Informação no 4º período, e fico feliz em compartilhar com você um pouco do meu mundo da programação. 👋😁
+<div width=100% style="text-align: center;>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=470&lines=Hello+World!+My+name+is+Rallenson+Silva;+%22I'm+a+Junior+Dev;%22Be+Welcome!+%F0%9F%91%8B%F0%9F%98%81%22)](https://git.io/typing-svg)
+</div>
 <!--  ### Aqui, eu apresento uma seleção de projetos que desenvolvi com muita dedicação e paixão. A tecnologia é a minha aliada nesta jornada, explorando diferentes linguagens e ferramentas para criar soluções inovadoras e funcionais.
  ### 	Admito que sou uma pessoa que gosta de me expressar por meio de códigos e linhas de comando, mas estou sempre aberto para trocar ideias e aprender com outros programadores. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.
  ### 	Espero que ao explorar meus repositórios, você sinta um pouco da minha paixão pelo mundo da tecnologia e pela criação de soluções personalizadas e eficientes. E se precisar de ajuda ou quiser bater um papo sobre programação, fique à vontade para entrar em contato. Vamos juntos em busca de novas descobertas e inovações! -->
