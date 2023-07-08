@@ -52,8 +52,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=r90ur7&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-  - 🔭 I’m currently working on: <a href="[https://skillicons.dev](https://github.com/UgbFerp)"> UGB - Ferp</a>
-  - 🌱 I’m currently learning: User experience and Design: <a href="[https://skillicons.dev](https://github.com/UgbFerp)"> UGB - Ferp</a>
+  - 🔭 I’m currently working on: <a href="https://github.com/UgbFerp"> UGB - Ferp </a>
+  - 🌱 I’m currently learning: User experience and Design
    <br/>
 
    <h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;C H A L L E N G E &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
