@@ -44,7 +44,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
  
-   [![My Skills](https://skillicons.dev/icons?i=git,vscode,figma,visualstudio,ps,gulp,eclipse&theme=dark&perline=3)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=git,vscode,figma,visualstudio,ps,gulp,eclipse,github&theme=dark&perline=3)](https://skillicons.dev)
   </a>
 </p>
 
