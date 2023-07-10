@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <div>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Rallenson+Silva;+%22I'm+a+Junior+Dev;%22Be+Welcome!+%F0%9F%91%8B%F0%9F%98%81%22)](https://git.io/typing-svg)
@@ -22,17 +23,21 @@
   <a href="https://www.linkedin.com/in/gustavo-rallenson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   <div>
- 
- 
- ### Front Skills :3
-<p display: flex; align="center";>
-  <a href="https://skillicons.dev">
+  <details>
+     <summary><h3>Front Skills :3</h3></summary>
+     <p display: flex; align="center";>
+        <a href="https://skillicons.dev">
    
    [![My Skills](https://skillicons.dev/icons?i=nodejs,react,dotnet,html,css,js,ts,jquery,sass,php,laravel,django&theme=dark&perline=4)](https://skillicons.dev)
-  </a>
-</p>
+       </a>
+      </p>
+   
+  </details>
  
- ### Back Skills :D
+ <details>
+ 
+<summary><h3>Back Skills :D</h3></summary>
+
 <p align="center">
   <a href="https://skillicons.dev">
  
@@ -40,24 +45,30 @@
   </a>
 </p>
 
- ### Tools 🤓
-<p align="center">
-  <a href="https://skillicons.dev">
+</details>
+ 
+
+<details>
+  <summary><h3>Tools 🤓</h3></summary>
+
+  <p align="center">
+    <a href="https://skillicons.dev">
  
    [![My Skills](https://skillicons.dev/icons?i=git,vscode,figma,visualstudio,ps,gulp,eclipse,webpack,github&theme=dark&perline=3)](https://skillicons.dev)
-  </a>
-</p>
+    </a>
+ </p>
 
- <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=r90ur7&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+  <p align="center">
+     <img src="https://github-profile-trophy.vercel.app/?username=r90ur7&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+ </p>
+ </details>
+
 
   - 🔭 I’m currently working on: <a href="https://github.com/UgbFerp"> UGB - Ferp </a>
   - 🌱 I’m currently learning: User experience and Design
    <br/>
 
    <h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;C H A L L E N G E &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
-
 <br> 
 
 <div width="100%" align="center">
