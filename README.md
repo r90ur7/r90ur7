@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/gustavo-rallenson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   <div>
-  <details>
+  <details open>
      <summary><h3>Front Skills :3</h3></summary>
      <p display: flex; align="center";>
         <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@
    
   </details>
  
- <details>
+ <details open>
  
 <summary><h3>Back Skills :D</h3></summary>
 
@@ -48,7 +48,7 @@
 </details>
  
 
-<details>
+<details open>
   <summary><h3>Tools 🤓</h3></summary>
 
   <p align="center">
