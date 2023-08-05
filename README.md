@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div>
- 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Rallenson+Silva;+%22I'm+a+Junior+Dev;%22Be+Welcome!+%F0%9F%91%8B%F0%9F%98%81%22)](https://git.io/typing-svg)
 
  <div>
@@ -16,7 +16,22 @@
 
 <div width=100% style="text-align: center;">
  
- ![Snake animation](https://github.com/r90ur7/r90ur7/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/r90ur7/r90ur7/blob/output/github-contribution-grid-snake.svg)-->
+
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
  
   <div align="right">
   <a href = "mailto:Rallenson900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
