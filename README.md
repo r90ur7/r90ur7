@@ -15,9 +15,9 @@
 </div>
 
 <div width=100% style="text-align: center;">
- 
-![Snake animation](https://github.com/r90ur7/r90ur7/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/r90ur7/r90ur7/output/snake.svg" alt="Snake animation" />
 <!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
