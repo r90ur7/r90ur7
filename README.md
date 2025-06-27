@@ -78,8 +78,6 @@
  </p>
  </details>
 
-
-  - 🔭 I’m currently working on: <a href="https://github.com/UgbFerp"> UGB - Ferp </a>
   - 🌱 I’m currently learning: User experience and Design
    <br/>
 
